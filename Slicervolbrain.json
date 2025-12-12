@@ -1,0 +1,19 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/Slicer/Slicer/main/Schemas/slicer-extension-catalog-entry-schema-v1.0.1.json#",
+  "extensionName": "Slicervolbrain",
+  "scm": "git",
+  "scmUrl": "https://github.com/niyaziacer/Slicervolbrain.git",
+  "scmRevision": "main",
+  "homepage": "https://github.com/niyaziacer/Slicervolbrain",
+  "category": "Segmentation",
+  "description": "Brain volume analysis and segmentation extension for 3D Slicer",
+  "screenshotUrls": [],
+  "contributors": [
+    {
+      "name": "Niyazi Acer",
+      "email": "acerniyazi@gmail.com",
+      "organization": ""
+    }
+  ],
+  "iconUrl": ""
+}
