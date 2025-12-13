@@ -1,8 +1,9 @@
-{
+﻿{
   "$schema": "https://raw.githubusercontent.com/Slicer/Slicer/main/Schemas/slicer-extension-catalog-entry-schema-v1.0.1.json#",
   "extensionName": "Slicervolbrain",
   "scm": "git",
-  "scmUrl": "https://github.com/niyaziacer/Slicervolbrain.git",
+  "scmUrl": "https://github.com/niyaziacer/SlicerVolBrain.git",
+"homepage": "https://github.com/niyaziacer/SlicerVolBrain",
   "scmRevision": "main",
   "homepage": "https://github.com/niyaziacer/Slicervolbrain",
   "category": "Segmentation",
