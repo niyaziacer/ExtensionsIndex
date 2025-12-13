@@ -5,15 +5,17 @@
   "scmUrl": "https://github.com/niyaziacer/SlicerVolBrain.git",
   "scmRevision": "main",
   "homepage": "https://github.com/niyaziacer/SlicerVolBrain",
-  "category": "Segmentation",
-  "description": "Brain volume analysis and segmentation extension for 3D Slicer",
-  "screenshotUrls": [],
+  "category": "Quantification",
+  "description": "3D Slicer extension for comprehensive brain structure volume calculation and 3D visualization from volBrain segmentation outputs",
+  "screenshotUrls": [
+    "https://raw.githubusercontent.com/niyaziacer/SlicerVolBrain/main/Screenshots/interface.png"
+  ],
   "contributors": [
     {
       "name": "Niyazi Acer",
       "email": "acerniyazi@gmail.com",
-      "organization": ""
+      "organization": "Gaziantep University"
     }
   ],
-  "iconUrl": ""
+  "iconUrl": "https://raw.githubusercontent.com/niyaziacer/SlicerVolBrain/main/Resources/Icons/SlicerVolBrain.png"
 }
